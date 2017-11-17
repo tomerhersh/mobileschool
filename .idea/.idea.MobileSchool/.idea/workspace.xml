@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59dc5d69-71f8-4d64-a0fd-c2b15648d31f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.MobileSchool/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MobileSchool/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MobileSchool/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -315,12 +315,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510942799191</updated>
       <workItem from="1510942801190" duration="2654000" />
-      <workItem from="1510946295371" duration="69000" />
+      <workItem from="1510946295371" duration="678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2723000" />
+    <option name="totallyTimeSpent" value="3332000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
