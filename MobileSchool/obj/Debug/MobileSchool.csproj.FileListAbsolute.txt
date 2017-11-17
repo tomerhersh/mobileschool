@@ -25,6 +25,7 @@ C:\dev\MobileSchool\MobileSchool\obj\Debug\MobileSchool.csprojResolveAssemblyRef
 C:\dev\MobileSchool\MobileSchool\obj\Debug\MobileSchool.csproj.CoreCompileInputs.cache
 C:\dev\MobileSchool\MobileSchool\obj\Debug\MobileSchool.dll
 C:\dev\MobileSchool\MobileSchool\obj\Debug\MobileSchool.pdb
+C:\dev\MSchool\MobileSchool\bin\MobileSchool.dll.config
 C:\dev\MSchool\MobileSchool\bin\MobileSchool.dll
 C:\dev\MSchool\MobileSchool\bin\MobileSchool.pdb
 C:\dev\MSchool\MobileSchool\bin\Microsoft.Web.Infrastructure.dll
@@ -48,8 +49,6 @@ C:\dev\MSchool\MobileSchool\bin\System.Web.Razor.xml
 C:\dev\MSchool\MobileSchool\bin\System.Web.WebPages.xml
 C:\dev\MSchool\MobileSchool\bin\System.Web.WebPages.Deployment.xml
 C:\dev\MSchool\MobileSchool\bin\System.Web.WebPages.Razor.xml
-C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.csprojResolveAssemblyReference.cache
 C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.csproj.CoreCompileInputs.cache
 C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.dll
 C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.pdb
-C:\dev\MSchool\MobileSchool\bin\MobileSchool.dll.config
