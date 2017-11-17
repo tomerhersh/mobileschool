@@ -1,1 +1,0 @@
-﻿<%@ Application Inherits="MobileSchool.Global" %>
