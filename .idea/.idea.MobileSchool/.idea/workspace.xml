@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59dc5d69-71f8-4d64-a0fd-c2b15648d31f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MobileSchool/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MobileSchool/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MobileSchool/Views/Home/About.cshtml" afterPath="$PROJECT_DIR$/MobileSchool/Views/Home/About.cshtml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,9 +61,9 @@
         <entry file="file://$PROJECT_DIR$/MobileSchool/Views/Home/About.cshtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
               <folding>
-                <marker date="1510946358554" expanded="true" signature="0:33" ph="@..." />
+                <marker date="1510948283825" expanded="true" signature="0:33" ph="@..." />
               </folding>
             </state>
           </provider>
@@ -315,12 +316,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510942799191</updated>
       <workItem from="1510942801190" duration="2654000" />
-      <workItem from="1510946295371" duration="678000" />
+      <workItem from="1510946295371" duration="1578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3332000" />
+    <option name="totallyTimeSpent" value="4232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,9 +503,9 @@
     <entry file="file://$PROJECT_DIR$/MobileSchool/Views/Home/About.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding>
-            <marker date="1510946358554" expanded="true" signature="0:33" ph="@..." />
+            <marker date="1510948283825" expanded="true" signature="0:33" ph="@..." />
           </folding>
         </state>
       </provider>
