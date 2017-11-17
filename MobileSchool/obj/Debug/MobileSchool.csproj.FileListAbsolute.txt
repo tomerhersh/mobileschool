@@ -52,3 +52,4 @@ C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.csprojResolveAssemblyReferenc
 C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.csproj.CoreCompileInputs.cache
 C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.dll
 C:\dev\MSchool\MobileSchool\obj\Debug\MobileSchool.pdb
+C:\dev\MSchool\MobileSchool\bin\MobileSchool.dll.config

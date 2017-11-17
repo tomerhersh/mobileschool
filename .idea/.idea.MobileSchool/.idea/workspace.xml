@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59dc5d69-71f8-4d64-a0fd-c2b15648d31f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MobileSchool/Views/Home/About.cshtml" afterPath="$PROJECT_DIR$/MobileSchool/Views/Home/About.cshtml" />
-    </list>
+    <list default="true" id="59dc5d69-71f8-4d64-a0fd-c2b15648d31f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +17,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="26" column="0" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <marker date="1510942803711" expanded="false" signature="6:133" ph="..." />
-                <marker date="1510942803711" expanded="true" signature="169:605" ph="{...}" />
-                <marker date="1510942803711" expanded="true" signature="216:603" ph="{...}" />
-                <marker date="1510942803711" expanded="true" signature="258:305" ph="{...}" />
-                <marker date="1510942803711" expanded="true" signature="342:458" ph="{...}" />
-                <marker date="1510942803711" expanded="true" signature="497:597" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -36,12 +27,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1510942803711" expanded="false" signature="6:47" ph="..." />
-                <marker date="1510942803711" expanded="true" signature="71:470" ph="{...}" />
-                <marker date="1510942803711" expanded="true" signature="102:468" ph="{...}" />
-                <marker date="1510942803711" expanded="true" signature="174:462" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,12 +59,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <marker date="1510942803726" expanded="false" signature="6:88" ph="..." />
-                <marker date="1510942803726" expanded="true" signature="112:407" ph="{...}" />
-                <marker date="1510942803726" expanded="true" signature="156:405" ph="{...}" />
-                <marker date="1510942803726" expanded="true" signature="205:399" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,15 +69,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1510942797475" expanded="true" signature="0:35" ph="@..." />
-                <marker date="1510942797475" expanded="true" signature="37:310" ph="&lt;div.../&gt;" />
-                <marker date="1510942797475" expanded="true" signature="312:1365" ph="&lt;div.../&gt;" />
-                <marker date="1510942797475" expanded="true" signature="332:737" ph="&lt;div.../&gt;" />
-                <marker date="1510942797475" expanded="true" signature="388:614" ph="&lt;p.../&gt;" />
-                <marker date="1510942797475" expanded="true" signature="740:1061" ph="&lt;div.../&gt;" />
-                <marker date="1510942797475" expanded="true" signature="1064:1358" ph="&lt;div.../&gt;" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,50 +133,6 @@
               <option name="myItemId" value="MobileSchool (1 project)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MobileSchool" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MobileSchool (1 project)" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MobileSchool" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Views" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MobileSchool (1 project)" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MobileSchool" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Views" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
@@ -214,6 +143,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -315,12 +245,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510942799191</updated>
       <workItem from="1510942801190" duration="2654000" />
-      <workItem from="1510946295371" duration="1766000" />
+      <workItem from="1510946295371" duration="2486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4420000" />
+    <option name="totallyTimeSpent" value="5140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -333,7 +263,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -373,14 +302,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="26" column="0" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1510942803711" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510942803711" expanded="true" signature="169:605" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="216:603" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="258:305" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="342:458" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="497:597" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -388,12 +310,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510942803711" expanded="false" signature="6:47" ph="..." />
-            <marker date="1510942803711" expanded="true" signature="71:470" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="102:468" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="174:462" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -409,15 +326,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510942797475" expanded="true" signature="0:35" ph="@..." />
-            <marker date="1510942797475" expanded="true" signature="37:310" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="312:1365" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="332:737" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="388:614" ph="&lt;p.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="740:1061" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="1064:1358" ph="&lt;div.../&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -425,12 +334,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <marker date="1510942803726" expanded="false" signature="6:88" ph="..." />
-            <marker date="1510942803726" expanded="true" signature="112:407" ph="{...}" />
-            <marker date="1510942803726" expanded="true" signature="156:405" ph="{...}" />
-            <marker date="1510942803726" expanded="true" signature="205:399" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -438,15 +342,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510942797475" expanded="true" signature="0:35" ph="@..." />
-            <marker date="1510942797475" expanded="true" signature="37:310" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="312:1365" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="332:737" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="388:614" ph="&lt;p.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="740:1061" ph="&lt;div.../&gt;" />
-            <marker date="1510942797475" expanded="true" signature="1064:1358" ph="&lt;div.../&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -454,14 +350,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="26" column="0" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1510942803711" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510942803711" expanded="true" signature="169:605" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="216:603" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="258:305" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="342:458" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="497:597" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -469,12 +358,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510942803711" expanded="false" signature="6:47" ph="..." />
-            <marker date="1510942803711" expanded="true" signature="71:470" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="102:468" ph="{...}" />
-            <marker date="1510942803711" expanded="true" signature="174:462" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -482,12 +366,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <marker date="1510942803726" expanded="false" signature="6:88" ph="..." />
-            <marker date="1510942803726" expanded="true" signature="112:407" ph="{...}" />
-            <marker date="1510942803726" expanded="true" signature="156:405" ph="{...}" />
-            <marker date="1510942803726" expanded="true" signature="205:399" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
