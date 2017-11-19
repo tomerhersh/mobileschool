@@ -19,5 +19,10 @@ namespace MobileSchool.Controllers
 		{
 			return View();
 		}
+
+		public ActionResult DLIntent()
+		{
+			return View();
+		}
 	}
 }

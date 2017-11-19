@@ -142,6 +142,9 @@
   <ItemGroup>
     <Content Include="Views\DeepLink\DLView.cshtml" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\DeepLink\DLIntent.cshtml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>
