@@ -135,10 +135,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Views\DeepLink\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".well-known\assetlinks.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\DeepLink\DLView.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets" />

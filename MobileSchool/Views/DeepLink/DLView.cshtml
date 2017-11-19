@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DLView</title>
+	
+</head>
+<body>
+	<script type="text/javascript">
+		var fallbackf = function () {
+			window.location.replace('http://mschool.apphb.com/home/about');
+		};
+
+		var addIFrame = function () {
+			var iframe = document.createElement("iframe");
+			iframe.style.border = "none";
+			iframe.style.width = "1px";
+			iframe.style.height = "1px";
+			iframe.src = 'tomerdl://';
+			document.body.appendChild(iframe);
+		};
+
+		addIFrame();
+		setTimeout(fallbackf, 1000);
+
+	</script>
+    <div> TOMER TOMER
+    </div>
+</body>
+</html>
